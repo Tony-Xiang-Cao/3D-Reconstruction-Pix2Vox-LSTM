@@ -1,0 +1,4 @@
+front.png
+right.png
+back.png
+left.png
